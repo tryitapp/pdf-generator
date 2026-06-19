@@ -1,11 +1,28 @@
 {
-    "org_name": "TRYIT EDUCATIONS",
-    "org_short": "TRYIT",
-    "tagline": "LEARN. LEAD. SUCCEED.",
-    "website": "www.tryiteducations.net",
-    "email": "tryiteducations@gmail.com",
-    "address": "KARUR",
-    "cover_series": "MAY 2026 EDITION",
-    "header_line": "INDIA'S PREMIER EXAM INTELLIGENCE MAGAZINE",
-    "logo_path": "logo.png"
+  "org_name":      "TRYIT EDUCATIONS",
+  "org_short":     "TryIT",
+  "tagline":       "LEARN. LEAD. SUCCEED.",
+  "website":       "www.tryiteducations.net",
+  "email":         "tryiteducations@gmail.com",
+  "phone":         "+91-9566698821",
+  "address":       "Tamil Nadu, India",
+  "copyright":     "© 2026 TryIT Educations. All rights reserved.",
+
+  "social_youtube":   "youtube.com/@tryiteducations",
+  "social_telegram":  "t.me/tryiteducations",
+  "social_instagram": "instagram.com/tryiteducations",
+
+  "logo_path": "logo.png"
+  "logo_alt_text": "TryIT Educations",
+
+  "editor_name":   "Editorial Team, TryIT Educations",
+  "legal_line":    "This material is for educational purposes only. Reproduction without permission is prohibited.",
+
+  "cover_series":  "PREMIUM EDITION",
+  "header_line":   "INDIA'S PREMIER EXAM INTELLIGENCE MAGAZINE",
+  "footer_left":   "LEARN. LEAD. SUCCEED.",
+  "footer_right":  "www.tryiteducations.net",
+
+  "print_notice":  "Printed and published by TryIT Educations, Tamil Nadu, India.",
+  "disclaimer":    "All exam names are trademarks of their respective conducting bodies. TryIT Educations is an independent education platform."
 }
